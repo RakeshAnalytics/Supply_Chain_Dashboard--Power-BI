@@ -7,7 +7,9 @@ This Power BI Supply Chain Dashboard provides a comprehensive analysis of supply
 🔍 Dashboard Sections:
 
 Overview Page: Highlights total orders, total cost, Avg Profit Margin %, stock level, 
+
 Product Page: Focuses on product-wise sales, stock availability, and demand trends.
+
 Supplier Page: Evaluates supplier performance, delivery efficiency, and defect rates.
 
 
